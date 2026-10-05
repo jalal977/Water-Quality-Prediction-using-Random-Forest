@@ -330,9 +330,9 @@ This application is an **ML-based prediction system for educational and research
 
 ## 👨‍💻 Project Author
 
-**Nihal**
+**Jalal**
 
-B.Tech – Computer Science and Engineering
+B.Tech – ECE
 
 ### Technologies
 
