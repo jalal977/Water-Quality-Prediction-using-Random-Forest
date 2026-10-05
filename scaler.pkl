@@ -1,0 +1,8 @@
+from sklearn.preprocessing import StandardScaler
+import pickle
+
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Save scaler
+pickle.dump(scaler, open('scaler.pkl', 'wb'))
